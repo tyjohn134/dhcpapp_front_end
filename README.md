@@ -2,7 +2,7 @@
 
 > A Vue.js project
 
-<img src="https://tylerjdev.sfo2.digitaloceanspaces.com/dhcpapp.png">
+<img src="https://tylerjdev.sfo2.cdn.digitaloceanspaces.com/dhcpapp.png">
 
 ## Build Setup
 
